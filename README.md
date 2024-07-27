@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AashritFichadiya
 - 👀 I’m interested in Android Kotlin.
 - 🌱 I’m currently learning Android Kotlin.
-- 💞️ I’m looking to collaborate on Android Kotlin Development
+- 💞️ I’m looking to collaborate on Android Kotlin Development.
 - 📫 How to reach me aashritsoni301@gmail.com
 
 <!---
