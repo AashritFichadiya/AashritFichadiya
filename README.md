@@ -12,7 +12,6 @@ A passionate Flutter Developer, Android Developer and Enthusiast from India
 ![Android](https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FA7343?style=for-the-badge&logo=kotlin&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroiStudio-1575F9?style=for-the-badge&logo=androidstudio&logoColor=white)
-... (add more badges as needed)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashritfichadiya&show_icons=true&theme=dark)
