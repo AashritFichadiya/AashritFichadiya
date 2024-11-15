@@ -3,7 +3,6 @@
 A passionate Flutter Developer, Android Developer and Enthusiast from India  
 🌱 Growing and Learning Daily  
 💖 Building Apps with Flutter & Dart And Android Kotlin
-
 🚀 Exploring Firebase for Backend Solutions
 
 ## 👩‍💻 Languages and Tools I Use:
