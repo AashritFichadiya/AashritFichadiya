@@ -18,6 +18,3 @@ A passionate Flutter Developer, Android Developer and Enthusiast from India
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayanparmar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanparmar&layout=compact&theme=dark)
 
-## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayanparmar&theme=dark)
-
