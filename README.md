@@ -9,12 +9,12 @@ A passionate Flutter Developer, Android Developer and Enthusiast from India
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)
-![Android](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-FA7343?style=for-the-badge&logo=kotlin&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroiStudio-1575F9?style=for-the-badge&logo=androidstudio&logoColor=white)
 ... (add more badges as needed)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayanparmar&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanparmar&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashritfichadiya&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashritfichadiya&layout=compact&theme=dark)
 
