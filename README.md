@@ -18,34 +18,8 @@ Focused on improving coding skills, creating real-world projects, and learning s
 ## 💼 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,androidstudio,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,firebase,git,github,vscode" />
 </p>
-
----
-
-## 📱 Featured Projects
-
-### 🔐 SecureCalc Vault
-A calculator vault app that hides:
-- Photos
-- Videos
-- Files
-- Notes
-
-✨ Features:
-- Working Calculator Lock
-- Internal Secure Storage
-- Restore / Delete Media
-- Notes Manager
-- Password Protection
-
-### 🧮 GST Calculator
-A GST Calculator App with:
-- Add/Remove GST
-- Calculation History
-- Share & Delete Options
-- Dark Mode Support
-- Multi-language Support
 
 ---
 
@@ -74,13 +48,9 @@ A GST Calculator App with:
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/aashrit-fichadiya-159b902aa?" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
 
 ---
-
-## ✨ Quote
-
-> "Consistency and continuous learning build great developers."
